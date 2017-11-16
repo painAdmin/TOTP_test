@@ -1,7 +1,11 @@
 package com.huate.databack;
 
 import java.io.IOException;
-
+/**
+ * java 执行linux 命令
+ * @author pain
+ *
+ */
 public class Test1 {
 
 	public static void main(String[] args) {
